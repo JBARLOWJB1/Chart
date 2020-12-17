@@ -4,7 +4,7 @@
 	"name": "Demo Gauge",
 	"description": "A gauge demo",
 	"newInstancePrefix": "Gauge",
-	"icon":  "http://51.143.179.14:8080/static_files/icon.png",
+	"icon":  "https://github.com/JBARLOWJB1/Chart/blob/main/icon.png",
 	"vendor": "Demo",
 	"eula": "EULA",
 	"license": "1.0",
@@ -12,23 +12,23 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "http://51.143.179.14:8080/static_files/box.js",
+			"url": "https://github.com/JBARLOWJB1/Chart/blob/main/box.js",
 			"integrity": "",
-			"ignoreIntegrity": false
+			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "http://51.143.179.14:8080/static_files/box_sps.js",
+			"url": "https://github.com/JBARLOWJB1/Chart/blob/main/box_sps.js",
 			"integrity": "",
-			"ignoreIntegrity": false
+			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "http://51.143.179.14:8080/static_files/box_bps.js",
+			"url": "https://github.com/JBARLOWJB1/Chart/blob/main/box_bps.js",
 			"integrity": "",
-			"ignoreIntegrity": false
+			"ignoreIntegrity": true
 		}
 	],
 	"properties": {
